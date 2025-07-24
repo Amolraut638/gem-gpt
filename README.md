@@ -69,11 +69,11 @@ npm run build
  ## Deployment
 I deployed the app using Vercel:
 
-Pushed the project to GitHub
-Connected the GitHub repo to Vercel
-Selected the my-app folder and framework as Next.js
-Added the environment variable (GOOGLE_GENERATIVE_AI_API_KEY)
-Deployed 🎉
+- Pushed the project to GitHub
+- Connected the GitHub repo to Vercel
+- Selected the my-app folder and framework as Next.js
+- Added the environment variable (GOOGLE_GENERATIVE_AI_API_KEY)
+- Deployed 🎉
 
 🙋‍♂️ About Me
 I'm currently exploring full-stack development and modern AI tools. This project was a great opportunity to learn how to work with external APIs, use AI SDKs, and deploy real-world applications.
