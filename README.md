@@ -1,6 +1,6 @@
 # ChatGPT Clone using Gemini API (Assistant-UI)
 
-This is a simple AI-powered chat application built using [Assistant-UI](https://github.com/vercel-labs/ai), integrated with **Google's Gemini API (gemini-pro)**. I followed the setup to learn how to use AI SDKs, manage environment variables, and deploy full-stack apps with **Next.js** and **Vercel**.
+This is a simple AI-powered chat application built using [Assistant-UI](https://www.assistant-ui.com/docs/getting-started), integrated with **Google's Gemini API (gemini-pro)**. I followed the setup to learn how to use AI SDKs, manage environment variables, and deploy full-stack apps with **Next.js** and **Vercel**.
 
 ---
 
@@ -63,6 +63,8 @@ bash
 Copy
 Edit
 npm run build
+
+```
 
  ## Deployment
 I deployed the app using Vercel:
