@@ -34,7 +34,7 @@ This is a simple AI-powered chat application built using [Assistant-UI](https://
 
 ## Installation Steps
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/chatgpt-gemini-clone.git
@@ -70,16 +70,12 @@ npm run build
 I deployed the app using Vercel:
 
 Pushed the project to GitHub
-
 Connected the GitHub repo to Vercel
-
 Selected the my-app folder and framework as Next.js
-
 Added the environment variable (GOOGLE_GENERATIVE_AI_API_KEY)
-
 Deployed 🎉
 
 🙋‍♂️ About Me
 I'm currently exploring full-stack development and modern AI tools. This project was a great opportunity to learn how to work with external APIs, use AI SDKs, and deploy real-world applications.
 
-Feel free to check out my GitHub for more!
+Feel free to check out my GitHub for more !
